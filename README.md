@@ -3,7 +3,7 @@
 
 ## 🧠 Project Overview
 
-This research project explores the application of deep learning models, particularly **Autoencoders**, **Multi-Layer Perceptrons (MLP)**, and **Deep Q-Learning (DQL)**, for anomaly detection. The models are benchmarked against classical unsupervised methods such as **Isolation Forest**, **Local Outlier Factor**, and **One-Class SVM**.
+This research project explores the application of deep learning models, particularly **Autoencoders**, **Multi-Layer Perceptrons (MLP)**, and **Deep Q-Learning (DQL)**, for anomaly detection. The models are benchmarked against classical unsupervised methods such as **Isolation Forest**, and **Local Outlier Factor**
 
 The project includes:
 - Evaluation on Scikit-learn datasets (e.g., blobs, moons)
