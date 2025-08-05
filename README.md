@@ -1,5 +1,5 @@
 
-# Deep Learning-based Anomaly Detection for Credit Card Fraud and Scikit-learn Datasets
+# Deep Learning-based Anomaly Detection
 
 ## 🧠 Project Overview
 
