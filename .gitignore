@@ -2,3 +2,5 @@
 venv_tf/
 __pycache__/
 *.pyc
+
+./Notebook/data/raw/creditcard.csv
